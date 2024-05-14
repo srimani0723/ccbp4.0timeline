@@ -1,0 +1,21 @@
+.project-title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.project-title {
+  margin: 0px;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.project-img {
+  width: 100%;
+}
+
+.link {
+  font-weight: bold;
+  text-decoration: none;
+}
